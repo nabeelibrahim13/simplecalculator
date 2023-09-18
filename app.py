@@ -1,4 +1,3 @@
-
 from flask import Flask, request, jsonify, render_template
 
 # Create the app object
