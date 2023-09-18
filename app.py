@@ -5,7 +5,7 @@ app = Flask(__name__)
 
 
 # importing function for calculations
-from basic_calculator_function import basic_calculator
+from calculate import basic_calculator
 
 # Define calculator
 @app.route('/')
